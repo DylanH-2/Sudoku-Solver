@@ -13,6 +13,7 @@ Here is my Sudoku Solver, a fast and fun program written in C that solves a 9x9 
       * In the command line type in "./puzzle"
       * And then enter in the choice you want to do
   * Otherwise test on website link
+  * dylanh-2.github.io/Sudoku-Solver/
 
 # Example Sudoku 
 1 0 0 0 7 0 0 0 0
